@@ -1,4 +1,5 @@
-backend> npm i
+backend> npm i -D
+         npm i
 frontend> npm i
 
 development server for backend - npm run dev
